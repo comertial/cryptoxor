@@ -1,0 +1,25 @@
+{
+  "name": "@comertial/cryptoxor",
+  "version": "0.0.1-alpha.0",
+  "description": "Xor Encpyptor Decryptor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comertial/cryptoxor.git"
+  },
+  "keywords": [
+    "encrypt",
+    "decrypt",
+    "xor"
+  ],
+  "author": "comertial",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/comertial/cryptoxor/issues"
+  },
+  "homepage": "https://github.com/comertial/cryptoxor#readme",
+  "dependencies": {}
+}
